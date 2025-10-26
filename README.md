@@ -1,2 +1,2 @@
 # DS-class
-Data science for beginners
+Data science Project on Sales
